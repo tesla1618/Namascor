@@ -7,6 +7,16 @@ function page() {
     <div>
       <TopSection />
       <Tabs />
+      <TopSection />
+      <Tabs />
+      <TopSection />
+      <Tabs />
+      <TopSection />
+      <Tabs />
+      <TopSection />
+      <Tabs />
+      <TopSection />
+      <Tabs />
     </div>
   );
 }
