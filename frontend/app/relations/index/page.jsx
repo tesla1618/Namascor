@@ -15,8 +15,6 @@ function page() {
       <Tabs />
       <TopSection />
       <Tabs />
-      <TopSection />
-      <Tabs />
     </div>
   );
 }
